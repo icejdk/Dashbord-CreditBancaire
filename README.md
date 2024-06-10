@@ -7,8 +7,8 @@ La qualité des dossiers de prêts immobiliers accordés diverge au sein du rés
 
 Les délais de prise de décision sur l’accord ou le rejet des prêts sont beaucoup trop longs.
 
-Mon interlocutrice, récemment nommée cheffe de projet, s’appelle Jeannette ; elle souhaite me proposer une mission, mais ne sait pas comment démarrer.
-En bref, l’objectif de Jeanne est double :
+Mon interlocutrice, récemment nommée cheffe de projet,souhaite me proposer une mission, mais ne sait pas comment démarrer.
+En bref, l’objectif est double :
 
 Réduire les délais de prise de décision sur l’accord des prêts.
 
@@ -36,4 +36,3 @@ la capacité d’épargne des emprunteurs (le reste à vivre).
 
 Toutes ces données sont dans des bases de données « qui ne se parlent pas », et tout le travail est fait dans la tête des conseillers bancaires, et à la main par la cellule centrale.
 
-Après ce premier échange téléphonique, j'ai validé avec Jeanne que le développement d’un dashboard pourrait être une solution intéressante. Celui-ci permettrait aux conseillers bancaires de consulter un « score de crédit immobilier » de leurs clients, et ainsi de savoir en quelques clics si le prêt immobilier est envisageable. Cela permettrait de gagner un temps précieux dans l’évaluation des dossiers, et de ne transmettre que des dossiers de qualité à la cellule centrale d’étude des prêts.
